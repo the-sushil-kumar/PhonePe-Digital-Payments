@@ -71,7 +71,7 @@ Project Overview
     of registered user devices.
 
 🖼️ Visual Intelligence: A Glimpse of the Dashboard
-[]()
+![](https://github.com/the-sushil-kumar/PhonePe-Digital-Payments/blob/main/PhonePe.jpg)
 
   
 
